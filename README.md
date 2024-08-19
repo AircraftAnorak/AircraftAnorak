@@ -6,3 +6,5 @@ Am a fully licenced amateur radio operator in the UK and love to tinker with rad
 - Member of [@PerytonSpace](https://github.com/PerytonSpace) and have helped in many projects including the rocketry competitions and Stagworks
 
 I like to document as much as I can when finding niche subjects that usually cause me issues so that other people will not have to go through the same process of struggling to find information - most of these are in GitHub pages as documentation, one I am currently adding to is the [EARS-cive](https://aircraftanorak.github.io/EARS-cive/) for projects related to our society
+
+Current endeavour is to get the PRF1050 repeater up and running - [see here for more](https://github.com/AircraftAnorak/PRF1050)
